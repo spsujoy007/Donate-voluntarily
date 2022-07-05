@@ -5,18 +5,38 @@ body {
 }
 
 .elementOFall {
-    width: 100%;
-    padding: 2% 2% 0% 0%;
+    width: 90%;
+    padding: 2% 2% 0% 2%;
+    margin-bottom: 150px;
 }
 
 .firstElement {
     text-align: center;
+    padding-top: 9%;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: 900;
 }
 
 .firstSection {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.644), transparent);
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.911), rgba(0, 0, 0, 0.322)), url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 640px;
+}
+
+.firstSection p {
+    margin-bottom: 4%;
+}
+
+.mybtn {
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding: 15px 25px 15px 25px;
+    font-weight: 900;
+    border-radius: 5px;
 }
