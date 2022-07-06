@@ -161,6 +161,10 @@ h1 {
     padding-top: 5%;
 }
 
+.commentAnd-img {
+    width: 80%;
+    padding-left: 130px
+}
 
 .commentSec {
     display: flex;
@@ -170,7 +174,6 @@ h1 {
 
 .fivethSection {
     margin-left: 100px;
-    float: left
 }
 
 .fivethSection img {
@@ -180,7 +183,30 @@ h1 {
 
 .CommentImg {
     width: 15%;
-    float: left;
     padding-right: 2%;
     padding-top: 2%;
+}
+
+.emailInputsec {
+
+    background-color: antiquewhite;
+    padding: 7%;
+    padding-left: 35%;
+}
+
+.emailInputsec .mailinput {
+    outline: none;
+    padding: 15px 40px 15px 40px;
+    border-radius: 6px;
+    border: none;
+    background-color: whitesmoke;
+    color: crimson;
+}
+
+.emailInputsec a {
+    color: white;
+    background-color: crimson;
+    padding: 15px 25px 15px 25px;
+    border-radius: 6px;
+    text-decoration: none;
 }
