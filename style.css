@@ -9,19 +9,19 @@ h1 {
     font-weight: 900;
 }
 
-.elementOFall {
+.elements {
     width: 95%;
     padding: 0% 2% 0% 2%;
     margin-bottom: 130px;
 }
 
-.itemIncenter {
+.m-item {
     text-align: center;
     padding-top: 0%;
 }
 
-.firstSection {
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.911), rgba(0, 0, 0, 0.322)), url(images/donation7.jpg);
+.firstSec {
+    background-image: linear-gradient(0deg, #000000e8, #00000052), url(images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -29,7 +29,7 @@ h1 {
     padding-top: 10%;
 }
 
-.firstSection p {
+.firstSec p {
     margin-bottom: 4%;
 }
 
@@ -43,11 +43,11 @@ h1 {
     border-radius: 5px;
 }
 
-.secondSection {
+.secondSec {
     width: 100%;
 }
 
-.secondSection h2 {
+.secondSec h2 {
     font-size: 40px;
     font-weight: 900;
     margin-top: 9%;
@@ -63,7 +63,7 @@ h1 {
 .price-sec p {
     font-family: arial;
     width: 25%;
-    background-color: rgba(189, 189, 189, 0.219);
+    background-color: #bdbdbd38;
     padding: 80px 5px 80px 5px;
     margin-right: 5%;
     text-align: center;
@@ -73,10 +73,10 @@ h1 {
     color: rgba(97, 97, 97, 0.678);
 }
 
-#highlightedlist {
-    color: rgba(220, 20, 60, 0.767);
-    background-color: rgba(220, 20, 60, 0.096);
-    border: 5px solid rgba(220, 20, 60, 0.432);
+#seletedbtn {
+    color: #dc143cc4;
+    background-color: #dc143c18;
+    border: 5px solid #dc143c6e;
 }
 
 
@@ -87,35 +87,35 @@ h1 {
 
 .amountSec h3 {
     margin-bottom: 40px;
-    border-bottom: 1px solid rgb(173, 173, 173);
+    border-bottom: 1px solid #adadad;
     padding-bottom: 15px;
     color: gray;
 }
 
-.elementOFall .donatePlandiv {
+.elements .d-plan {
     padding-top: 0%;
 }
 
-.donatePlandiv h1 {
+.d-plan h1 {
     font-size: 40px;
 }
 
-.donatePlandiv h3 {
-    color: rgb(71, 71, 71);
+.d-plan h3 {
+    color: #474747;
 }
 
-.donatePlandiv h4 {
+.d-plan h4 {
     color: black;
     font-weight: 400;
 }
 
-.donatinghead {
+.d-head {
     padding-bottom: 4%;
 }
 
 .plan-model .plan-list {
     width: 27%;
-    background-color: rgba(255, 0, 0, 0.075);
+    background-color: #ff000013;
     padding: 5% 2% 2% 2%;
     height: 270px;
     float: left;
@@ -123,45 +123,45 @@ h1 {
 }
 
 #planlist2 {
-    background-color: rgba(9, 255, 0, 0.123);
+    background-color: #09ff001f;
 }
 
 #planlist3 {
-    background-color: rgba(255, 255, 0, 0.158);
+    background-color: #ffff0028;
 }
 
 /*third Section complete hear*/
 
-.description-sec {
+.des-area {
     display: flex;
     width: 90%;
 
 }
 
-.describetext {
+.des-text {
     width: 50%;
     margin-left: 100px;
 }
 
-.describetext h2 {
+.des-text h2 {
     font-size: 35px;
 }
 
-.describetext h4 {
+.des-text h4 {
     width: 70%;
 }
 
-.describetext a {
+.des-text a {
     margin-top: 2%;
     float: left
 }
 
-.description-sec img {
+.des-area img {
     width: 100%;
     padding-top: 5%;
 }
 
-.commentAnd-img {
+.com-Sec {
     width: 80%;
     padding-left: 130px
 }
@@ -172,29 +172,29 @@ h1 {
     margin-bottom: 35px;
 }
 
-.fivethSection {
+.fivethSec {
     margin-left: 100px;
 }
 
-.fivethSection img {
+.fivethSec img {
     width: 100%;
 
 }
 
-.CommentImg {
+.commImg {
     width: 15%;
     padding-right: 2%;
     padding-top: 2%;
 }
 
-.emailInputsec {
+.emailInp {
 
     background-color: antiquewhite;
     padding: 7%;
     padding-left: 35%;
 }
 
-.emailInputsec .mailinput {
+.emailInp .mailinput {
     outline: none;
     padding: 15px 40px 15px 40px;
     border-radius: 6px;
@@ -203,7 +203,7 @@ h1 {
     color: crimson;
 }
 
-.emailInputsec a {
+.emailInp a {
     color: white;
     background-color: crimson;
     padding: 15px 25px 15px 25px;
@@ -213,7 +213,7 @@ h1 {
 
 footer {
     padding: 2%;
-    background-color: rgb(17, 17, 17);
+    background-color: #111111;
     color: white;
     text-align: center;
 }
