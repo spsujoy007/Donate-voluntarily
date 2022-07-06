@@ -11,7 +11,7 @@ h1 {
 
 .elements {
     width: 95%;
-    padding: 0% 2% 0% 2%;
+    padding: 0% 0% 0% 2%;
     margin-bottom: 130px;
 }
 
@@ -21,11 +21,11 @@ h1 {
 }
 
 .firstSec {
-    background-image: linear-gradient(0deg, #000000e8, #00000052), url(images/donation7.jpg);
+    background-image: linear-gradient(0deg, #000000e8, #0000007e), url(images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    height: 640px;
+    height: 540px;
     padding-top: 10%;
 }
 
@@ -41,6 +41,7 @@ h1 {
     padding: 15px 25px 15px 25px;
     font-weight: 900;
     border-radius: 5px;
+    box-shadow: 0px 0px 15px #e00b369f;
 }
 
 .secondSec {
@@ -199,7 +200,7 @@ h1 {
     padding: 15px 40px 15px 40px;
     border-radius: 6px;
     border: none;
-    background-color: whitesmoke;
+    background-color: #ffffff;
     color: crimson;
 }
 
