@@ -130,6 +130,8 @@ h1 {
     background-color: rgba(255, 255, 0, 0.158);
 }
 
+/*third Section complete hear*/
+
 .description-sec {
     display: flex;
     width: 90%;
@@ -140,8 +142,6 @@ h1 {
     width: 50%;
     margin-left: 100px;
 }
-
-
 
 .describetext h2 {
     font-size: 35px;
@@ -159,4 +159,28 @@ h1 {
 .description-sec img {
     width: 100%;
     padding-top: 5%;
+}
+
+
+.commentSec {
+    display: flex;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.fivethSection {
+    margin-left: 100px;
+    float: left
+}
+
+.fivethSection img {
+    width: 100%;
+
+}
+
+.CommentImg {
+    width: 15%;
+    float: left;
+    padding-right: 2%;
+    padding-top: 2%;
 }
