@@ -11,13 +11,13 @@ h1 {
 
 .elementOFall {
     width: 95%;
-    padding: 2% 0% 0% 2%;
+    padding: 0% 2% 0% 2%;
     margin-bottom: 130px;
 }
 
 .itemIncenter {
     text-align: center;
-    padding-top: 9%;
+    padding-top: 0%;
 }
 
 .firstSection {
@@ -26,6 +26,7 @@ h1 {
     background-size: cover;
     color: white;
     height: 640px;
+    padding-top: 10%;
 }
 
 .firstSection p {
@@ -49,6 +50,7 @@ h1 {
 .secondSection h2 {
     font-size: 40px;
     font-weight: 900;
+    margin-top: 9%;
 }
 
 .price-sec {
@@ -71,7 +73,7 @@ h1 {
     color: rgba(97, 97, 97, 0.678);
 }
 
-.price-sec p:nth-child(2) {
+#highlightedlist {
     color: rgba(220, 20, 60, 0.767);
     background-color: rgba(220, 20, 60, 0.096);
     border: 5px solid rgba(220, 20, 60, 0.432);
@@ -88,4 +90,42 @@ h1 {
     border-bottom: 1px solid rgb(173, 173, 173);
     padding-bottom: 15px;
     color: gray;
+}
+
+.elementOFall .donatePlandiv {
+    padding-top: 0%;
+}
+
+.donatePlandiv h1 {
+    font-size: 40px;
+}
+
+.donatePlandiv h3 {
+    color: rgb(71, 71, 71);
+}
+
+.donatePlandiv h4 {
+    color: black;
+    font-weight: 400;
+}
+
+.donatinghead {
+    padding-bottom: 4%;
+}
+
+.plan-model .plan-list {
+    width: 27%;
+    background-color: rgba(255, 0, 0, 0.075);
+    padding: 2%;
+    height: 270px;
+    float: left;
+    margin-right: 20px;
+}
+
+#planlist2 {
+    background-color: rgba(9, 255, 0, 0.123);
+}
+
+#planlist3 {
+    background-color: rgba(255, 255, 0, 0.158);
 }
