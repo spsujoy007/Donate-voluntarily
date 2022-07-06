@@ -116,7 +116,7 @@ h1 {
 .plan-model .plan-list {
     width: 27%;
     background-color: rgba(255, 0, 0, 0.075);
-    padding: 2%;
+    padding: 5% 2% 2% 2%;
     height: 270px;
     float: left;
     margin-right: 20px;
@@ -128,4 +128,35 @@ h1 {
 
 #planlist3 {
     background-color: rgba(255, 255, 0, 0.158);
+}
+
+.description-sec {
+    display: flex;
+    width: 90%;
+
+}
+
+.describetext {
+    width: 50%;
+    margin-left: 100px;
+}
+
+
+
+.describetext h2 {
+    font-size: 35px;
+}
+
+.describetext h4 {
+    width: 70%;
+}
+
+.describetext a {
+    margin-top: 2%;
+    float: left
+}
+
+.description-sec img {
+    width: 100%;
+    padding-top: 5%;
 }
