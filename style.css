@@ -211,11 +211,11 @@ h1 {
 .emailInp a {
     color: white;
     background-color: crimson;
-    padding: 13px 25px 13px 25px;
+    padding: 12px 25px 13px 25px;
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     text-decoration: none;
-    margin-left: -6px;
+    margin-left: -8px;
 }
 
 
@@ -229,5 +229,5 @@ footer {
 footer h1 {
     font-size: 35px;
     font-family: 'Finlandica', sans-serif;
-    color: orangered;
+    color: crimson;
 }
