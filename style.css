@@ -211,9 +211,11 @@ h1 {
 .emailInp a {
     color: white;
     background-color: crimson;
-    padding: 15px 25px 15px 25px;
-    border-radius: 6px;
+    padding: 13px 25px 13px 25px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
     text-decoration: none;
+    margin-left: -6px;
 }
 
 
