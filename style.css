@@ -20,7 +20,7 @@ h1 {
 }
 
 .firstSec {
-    background-image: linear-gradient(0deg, #000000e8, #0000007e), url(images/donation7.jpg);
+    background-image: linear-gradient(0deg, #000000e8, #0000005b), url(images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -177,8 +177,8 @@ h1 {
     margin-bottom: 35px;
 }
 
-.fivethSec {
-    margin-left: 100px;
+.fivethSec a {
+    color: crimson;
 }
 
 .fivethSec img {
