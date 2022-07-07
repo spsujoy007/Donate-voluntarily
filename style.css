@@ -79,11 +79,22 @@ h1 {
     border: 5px solid #dc143c6e;
 }
 
-.amountSec h3 {
-    margin-bottom: 40px;
+.amountSec input {
+    margin-bottom: 20px;
     border-bottom: 1px solid #adadad;
-    padding-bottom: 15px;
+    padding: 22px 10px 0px 10px;
     color: gray;
+    display: block;
+    outline: none;
+    border: none;
+    font-size: 25px;
+    margin-left: 37%;
+    text-align: center;
+    color: crimson;
+}
+
+.amountSec hr {
+    margin-bottom: 4%;
 }
 
 .elements .d-plan {
